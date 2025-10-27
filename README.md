@@ -28,6 +28,4 @@ Klik *badge* di bawah untuk membuka *notebook* langsung di Google Colab (tidak p
 
 ---
 
----
-
 Selamat bereksperimen dengan konsep dasar LLM!
