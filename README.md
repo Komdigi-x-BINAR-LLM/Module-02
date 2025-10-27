@@ -20,7 +20,7 @@ Anda bisa menjalankan *notebook* ini menggunakan salah satu cara berikut:
 ### Opsi A: Google Colaboratory (Rekomendasi Cepat)
 
 Klik *badge* di bawah untuk membuka *notebook* langsung di Google Colab (tidak perlu instalasi lokal).
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](<URL_NOTEBOOK_1_DI_GITHUB_RAW>)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](<https://colab.research.google.com/drive/1g7Lj8qWHoBHapE29qQ-kFp92ZjakkciJ?usp=sharing>)
 
 **Catatan Colab:**
 * Jalankan sel pertama yang berisi `!pip install transformers torch` untuk instalasi.
@@ -30,7 +30,7 @@ Klik *badge* di bawah untuk membuka *notebook* langsung di Google Colab (tidak p
 
 ---
 
-### Opsi B: GitHub Codespaces / VS Code Lokal
+### Opsi B: GitHub Codespaces / VS Code Lokal (Menyusul)
 
 1.  **Clone Repository Induk:** (Jika belum)
     ```bash
@@ -52,16 +52,6 @@ Klik *badge* di bawah untuk membuka *notebook* langsung di Google Colab (tidak p
     * Navigasi ke `notebooks/1_Explorasi_Tokenization_Sampling.ipynb`.
     * Pilih *kernel* Python yang benar (dari *virtual env* jika dibuat).
     * Jalankan sel-sel kode.
-
----
-
-### Opsi C: Jupyter Notebook / Jupyter Lab Lokal
-
-1.  **Clone Repository Induk:** (Sama seperti Opsi B, langkah 1)
-2.  **Buat & Aktifkan Virtual Environment:** (Sama seperti Opsi B, langkah 2)
-3.  **Install Dependensi:** (Sama seperti Opsi B, langkah 3)
-4.  **Jalankan Jupyter:** Dari terminal (dengan *virtual env* aktif) di *root* folder repo, jalankan `jupyter notebook` atau `jupyter lab`.
-5.  Navigasi ke `notebooks/1_Explorasi_Tokenization_Sampling.ipynb` dan buka.
 
 ---
 
